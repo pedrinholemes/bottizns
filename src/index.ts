@@ -1,12 +1,6 @@
-import express from 'express'
+import 'dotenv/config'
+import app from './server'
+import client from './bot'
 
-const app = express()
-
-app.get('/', (req, res) => {
-  return res.links({
-    'my-website': 'https://pedrinholemes.web.app',
-    'invite-bot': ''
-  })
-})
-
+client.login(process.env.BOT_TOKEN)
 app.listen(3333)

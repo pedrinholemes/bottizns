@@ -34,10 +34,7 @@
     // "noFallthroughCasesInSwitch": true,
     // "moduleResolution": "node",
     "baseUrl": ".",
-    "paths": {
-      "@commands/*": ["./src/lib/commands"],
-      "@utils/*": ["./src/lib/utils"]
-    },
+    // "paths": {},
     // "rootDirs": [],
     // "typeRoots": [],
     // "types": [],

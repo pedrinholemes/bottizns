@@ -1,6 +1,6 @@
 # Bem-vindo à Bottizns 👋
 
-[![Versão](<https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000)](#)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/pedrinholemes/bottizns)
 [![Documentação](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](#)
 [![Licença: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Twitter: pedrinho_lemes](https://img.shields.io/twitter/follow/pedrinho_lemes.svg?style=social)](https://twitter.com/pedrinho_lemes)
